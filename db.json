@@ -15,22 +15,6 @@
       "level": 0,
       "Password": "Bielxds201!",
       "ConfirmPassword": "Bielxds201!"
-    },
-    {
-      "id": "Ir9HcF-",
-      "nameUser": "admin",
-      "email": "admin@admin.com",
-      "level": 0,
-      "Password": "Admin01!",
-      "ConfirmPassword": "Admin01!"
-    },
-    {
-      "id": "3RdYxPL",
-      "nameUser": "gabriel0000000000",
-      "email": "gabrieljjjjjjjjjjanacleto159@live.com",
-      "level": 0,
-      "Password": "Bielxds201!",
-      "ConfirmPassword": "Bielxds201!"
     }
   ],
   "pacientes": [
@@ -99,57 +83,6 @@
           "id": 1
         }
       ]
-    },
-    {
-      "id": 2,
-      "CPF": "1234567890",
-      "NomeCompleto": "olamundo",
-      "DataNascimento": "1996-07-01",
-      "Email": "mduno@world.com",
-      "Sexo": "Feminino",
-      "Nacionalidade": "brasileira",
-      "Naturalidade": "bauru",
-      "Profissao": "bio",
-      "Escolaridade": "superiorr",
-      "EstadoCivil": "Casado",
-      "Mae": "asdadfdf",
-      "Pai": "asdddd",
-      "sessoesPaciente": [],
-      "FatoRelevante": []
-    },
-    {
-      "id": 3,
-      "CPF": "010101000101",
-      "NomeCompleto": "Terceiro Paciente",
-      "DataNascimento": "1994-02-01",
-      "Email": "teste@teste.com",
-      "Sexo": "Masculino",
-      "Nacionalidade": "Brasileiro",
-      "Naturalidade": "Bauru",
-      "Profissao": "Motorista",
-      "Escolaridade": "Ensino Médio",
-      "EstadoCivil": "Casado",
-      "Mae": "Maria",
-      "Pai": "José",
-      "sessoesPaciente": [],
-      "FatoRelevante": []
-    },
-    {
-      "id": 4,
-      "CPF": "0000000000022",
-      "NomeCompleto": "Quarto Paciente",
-      "DataNascimento": "1882-02-19",
-      "Email": "teste@sad.com",
-      "Sexo": "Masculino",
-      "Nacionalidade": "sada",
-      "Naturalidade": "",
-      "Profissao": "sadas",
-      "Escolaridade": "asd",
-      "EstadoCivil": "Casado",
-      "Mae": "asd",
-      "Pai": "ad",
-      "sessoesPaciente": [],
-      "FatoRelevante": []
     }
   ]
 }
